@@ -24,7 +24,7 @@ img{
     letter-spacing:.5em;
 }
 a:hover{
-    background-color: rgba(18, 99, 146, 0.445);
-    color: white;
+    background-color: white;
+    color: blue;
     box-shadow: 5px 5px 5px black;
 } 
